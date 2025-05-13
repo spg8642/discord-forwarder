@@ -1,0 +1,8 @@
+{
+  "id": "discordforwarder",
+  "name": "Discord Forwarder",
+  "description": "Forwards in-game chat messages to a Discord webhook.",
+  "version": "1.0.0",
+  "tags": ["discord", "chat", "webhook"],
+  "entrypoint": "net.runelite.client.plugins.discordforwarder.DiscordForwarderPlugin"
+}
